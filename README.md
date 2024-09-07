@@ -3,6 +3,9 @@
 ## Description
 Ce projet est un composant **Carousel** développé en **TypeScript (TSX)**. Il permet de faire défiler un ensemble d'images ou d'éléments,  avec des boutons de navigation, une option d'auto-défilement, et des points de navigation (waypoints).
 
+## Demo Video
+
+[Demo](./carousel.mp4)
 
 
 ## Fonctionnalités
