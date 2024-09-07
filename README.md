@@ -5,7 +5,10 @@ Ce projet est un composant **Carousel** développé en **TypeScript (TSX)**. Il 
 
 ## Demo Video
 
-[Demo](./carousel.mp4)
+
+
+https://github.com/user-attachments/assets/a3c4e032-1131-46b5-977c-222024a93459
+
 
 
 ## Fonctionnalités
